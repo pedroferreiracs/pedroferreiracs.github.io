@@ -1,0 +1,133 @@
+
+.logo{
+    margin-top: 105px;
+    margin-left: 910px;   
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.row {  
+    margin-top: 0px;
+    margin-left: 120px;
+    margin-right: 100px;
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  
+}
+.top{
+    margin-top: 160px;
+    margin-left: -100px;
+    -ms-flex: 20%; /* IE10 */
+    flex: 20%;
+    border-width: 3px;
+    border-color: grey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: 0.5px;
+}
+
+
+.side {
+    margin-top: 50px;
+    margin-left: 200px;
+  -ms-flex: 20%; /* IE10 */
+  flex: 20%;
+}
+
+
+.main { 
+    margin-top:185px;
+margin-left:100px;   
+  -ms-flex: 20%; /* IE10 */
+  flex: 20%;
+}
+
+.navbar {
+    margin-top: 0px;
+    margin-left:0px;
+    margin-right:0px;
+    overflow: hidden;
+    background-color: black;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: 0.5px;
+}
+.navbar a {
+  float:left; 
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 3px 20px;
+  text-decoration: none;
+
+}
+.right {
+  margin-left: 1000px;
+}
+.navbar a.active {
+  background-color: #666;
+  color: white;
+}
+.navbar2 {
+    margin-top: 225px;
+    margin-left: 0px;
+    margin-right: 0px;
+    overflow: hidden;
+    background-color: black;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: 0.5px;
+}
+.navbar2 a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 3px 20px;
+  text-decoration: none;
+
+}
+.navbar2 a.active {
+  background-color: #666;
+  color: white;
+}
+footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+
+}
+.brands{
+margin-top: 10px;
+text-align: center;
+letter-spacing: 50px;
+}
+
+.caixas {
+    border-style: solid;
+    border-bottom: 0;
+    border-width: 2px;
+  color: black;
+
+}

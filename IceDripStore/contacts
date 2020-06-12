@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="CSS/contacts.css"> 
+</head>
+<body>
+ <div style="background-image: url('imagens/fundo3.jpg');">
+<div class="navbar">
+  <a href="index" class="active">HOME</a>
+  <a href="brands">BRANDS</a>
+  <a href="products">PRODUCTS</a>
+  <a href="cart">CART</a>
+ <a class="right"> SEARCH </a>
+</div>
+
+<div class="logo">
+<a href="index"><img src="imagens/icedriplogo.png" width="100" height="100" ></a>
+</div>
+<div class="row">
+  <div class="side">
+    <div class="fakeimg" ><img src="imagens/aj1red.png"> </div>
+  </div>
+<div class="top">
+    <h1 class="contactos">CONTACTS</h1>  
+    <p><input type="text" name="nome" placeholder="NAME"/>
+    </p>
+    <p><input type="mail" name="mail" placeholder="E-MAIL"/>
+    </p>
+    <p><input type="tel" name="telef" placeholder="PHONE"/>
+    </p>
+    <p>DISTRICT:
+        <select name="Distrito Portugal">
+            <option value="LIS">Lisboa</option>
+            <option value="POR">Porto</option>
+            <option value="EVO">Évora</option>
+            <option value="AVE">Aveiro</option>
+            <option value="FAR">Faro</option>
+            <option value="PORT">Portalegre</option>
+            <option value="COI">Coimbra</option>
+            <option value="BEJ">Beja</option>
+            <option value="VILR">Vila Real</option>
+            <option value="BRAG">Bragança</option>
+            <option value="BRG">Braga</option>
+            <option value="VIAC">Viana do Castelo</option>
+            <option value="VIS">Viseu</option>
+            <option value="GUAR">Guarda</option>
+            <option value="CASTB">Castelo Branco</option>
+            <option value="LEI">Leiria</option>
+            <option value="SAN">Santarém</option>
+            <option value="SET">Setúbal</option>   
+        </select>
+        <p></p>
+        <input type="text" name="Resi"placeholder="ADRESS"/>
+    <p></p>
+         <input type="text" name="codpostal"placeholder="POSTAL-CODE"/>
+    <p></p>
+        <textarea rows="10" cols="50" placeholder="MENSAGE"></textarea>
+    
+    <p>
+        <input type="reset" value="Clean"/>
+        <input type="submit" value="Send"/>
+    </p>
+        </form>
+    <article class="contactos"/>
+    </section>
+    
+    
+</body>
+    </div>
+  <div class="main">
+    <div class="fakeimg"><img src="imagens/aj1blue.png">
+
+     </div>
+    
+  </div>
+</div>
+</body>
+
+<div class="navbar2">
+  
+  <a href="contacts" >CONTACTS</a> 
+  
+  <a>ADRESS</a>
+  <a href="payment" >PAYMENT METHODS</a>
+  <a>HELP</a>
+   <a href="aboutus">ABOUT US</a>
+
+
+</div>
+
+<div class="footer">
+<div class="brands">
+<img src="imagens/bape.png" with="100px" height="100px">
+<img src="imagens/assc.png" with="100px" height="100px">
+<img src="imagens/palace.png" with="100px" height="100px">
+<img src="imagens/supreme.png" with="50px" height="50px"  >
+<img src="imagens/offwhite.png" with="100px" height="100px">
+<img src="imagens/tnf.png" with="100px" height="100px">
+<img src="imagens/yeezy.png" with="100px" height="100px">
+
+</div>
+</div>
+</html>

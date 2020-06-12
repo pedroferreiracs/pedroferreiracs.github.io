@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="CSS/products.css"> 
+</head>
+<body>
+  <div style="background-image: url('imagens/fundo3.jpg');">
+<div class="navbar">
+  <a href="index" class="active">HOME</a>
+  <a href="brands">BRANDS</a>
+   <a href="products">PRODUCTS</a>
+  <a href="cart">CART</a>
+ <a class="right"> SEARCH </a>
+</div>
+
+<div class="logo">
+
+<a href="index"><img src="imagens/icedriplogo.png" width="100" height="100" ></a>
+</div>
+
+  <div class="row">
+  
+  <div class="side">
+  <div class="fakeimg"><img src="imagens/greetings.png" width="300" height="300" > </div>
+  <div class="fakeimg2"><img src="imagens/bogo.png" width="300" height="300"> </div>
+    </div>
+
+  <div class="top" >
+  <div class="fakeimg" ><img src="imagens/Mary.png" width="300" height="300"> </div>
+  <div class="fakeimg2"><img src="imagens/palace1.png" width="250" height="300"> </div>
+    </div>
+  
+  <div class="main">
+  <div class="fakeimg" ><img src="imagens/assc2.png" width="300" height="300"> </div>
+  <div class="fakeimg2"><img src="imagens/assc1.png" width="275" height="300"> </div>
+    </div>
+
+ </div>
+
+
+<div class="navbar2">
+  
+  <a href="contacts">CONTACTS</a>
+  
+  <a>ADRESS</a>
+  <a href="payment" >PAYMENT METHODS</a>
+  <a>HELP</a>
+   <a href="aboutus">ABOUT US</a>
+
+
+</div>
+
+<div class="footer">
+<div class="brands">
+<img src="imagens/bape.png" with="100px" height="100px">
+<img src="imagens/assc.png" with="100px" height="100px">
+<img src="imagens/palace.png" with="100px" height="100px">
+<img src="imagens/supreme.png" with="50px" height="50px"  >
+<img src="imagens/offwhite.png" with="100px" height="100px">
+<img src="imagens/tnf.png" with="100px" height="100px">
+<img src="imagens/yeezy.png" with="100px" height="100px">
+</body>
+</div>
+</div>
+
